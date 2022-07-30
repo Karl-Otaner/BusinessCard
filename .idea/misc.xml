@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/carlos.silva/BootcampSantander2022/BusinessCard/app/src/main/res/drawable/ic_add.xml" value="0.2" />
-        <entry key="..\:/Users/carlos.silva/BootcampSantander2022/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/carlos.silva/BootcampSantander2022/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/carlos.silva/BootcampSantander2022/BusinessCard/app/src/main/res/layout/item_business_card.xml" value="0.25" />
       </map>
     </option>
   </component>
